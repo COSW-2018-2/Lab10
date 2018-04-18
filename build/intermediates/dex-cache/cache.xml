@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Usuario\Downloads\android-persistance-api-integration\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="35331658addbbea3f3385a1d11dca64edb7cfedd">
+        <dex dex="C:\Users\Usuario\Downloads\android-persistance-api-integration\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_bdab53d672badcaa67acaeda7c8e901ac729b1fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Usuario\Downloads\android-persistance-api-integration\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="C:\Users\Usuario\Downloads\android-persistance-api-integration\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_7bc76001edfd3abc190b8a46fa5a20e8b42965df\classes.dex" />
+    </item>
+
+</items>
